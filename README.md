@@ -1,4 +1,4 @@
-#Driving a robot using G-code
+# Driving a robot using G-code
 *Project was created as a part of a seminar of robotics and measurements. 
 Seminar is part of the Robotics masters program, on Faculty of electrical engineering - Ljubljana 2020/21*
  
